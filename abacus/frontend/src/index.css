@@ -1,0 +1,5 @@
+/* Tailwind CSS (used by the Sign In / Sign Up pages). Preflight is disabled in tailwind.config.js
+   so the existing dashboard styles in styles.css are left untouched. */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

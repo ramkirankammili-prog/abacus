@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+ortools
+supabase>=2.18.0
+httpx
+pandas
+numpy
+pytest
